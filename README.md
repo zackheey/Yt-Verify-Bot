@@ -35,11 +35,12 @@ A modern Discord bot that automatically verifies YouTube subscription screenshot
 
 ```text
 src/
-├── commands/
-├── events/
-├── handlers/
 ├── database/
+├── events/
+├── services/
+├── ui/
 ├── utils/
+├── config.js
 └── index.js
 ```
 
